@@ -3,7 +3,7 @@
 ## Overview, Purpose & Features
 - it is simple project for navigation Component && fragments.
 - it will pass data from one fragment to another using parcelable data class or you can pass data using objects also
-- Retaining data even if the screen is rotated
+- Retaining data even if the screen is rotated, It is handled by the navigation component automatically.
 
 ## Concepts Used
 - Navigation Component, Fragments
